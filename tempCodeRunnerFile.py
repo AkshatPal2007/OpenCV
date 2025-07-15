@@ -1,0 +1,2 @@
+w(img)
+# plt.show()
